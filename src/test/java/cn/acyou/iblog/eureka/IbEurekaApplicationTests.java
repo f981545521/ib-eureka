@@ -1,4 +1,4 @@
-package cn.acyou.ibeureka;
+package cn.acyou.iblog.eureka;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
